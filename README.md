@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Saleor Next.js Storefront</h1>
-  Starter pack for building performant e-commerce experiences with <a href="https://github.com/saleor/saleor">Saleor</a>.
+  Starter pack for building performant e-commerce experiences with <a href="https://github.com/saleor/saleor">Saleor</a>!
 </div>
 
 <div align="center">
